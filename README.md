@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Open for new opportunities. 
+Self-Motivated IOS Developer with solid computer science fundamentals (Swift, Java, C++).
+
 <!--
 **bgoncharov/bgoncharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
