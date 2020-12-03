@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Open for new opportunities. 
+Open to new opportunities. 
 Self-Motivated iOS Developer with solid computer science fundamentals (Swift, Java, C++).
 
 <!--
