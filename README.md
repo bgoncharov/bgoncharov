@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 Open to new opportunities. 
 Self-Motivated Software Developer with solid computer science fundamentals (Swift, Java, C++).
